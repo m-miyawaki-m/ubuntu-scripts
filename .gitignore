@@ -1,0 +1,17 @@
+# 全てのconfigファイルを無視
+*.config
+
+# sample.configは追跡する
+!sample.config
+
+# 全てのlogファイルを無視
+*.log
+
+# sample.logは追跡する
+!sample.log
+
+# 全てのlogファイルを無視
+*.task
+
+# sample.logは追跡する
+!sample.task
