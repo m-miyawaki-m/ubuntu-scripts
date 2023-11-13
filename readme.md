@@ -49,4 +49,10 @@ crontab -u root -l
 
 # 全てのcronジョブを削除する
 crontab -r
+
+#
+sudo apt-get install bc
+
+# sudo apt-get install openssh-server
+sudo apt-get install openssh-server
 ```
